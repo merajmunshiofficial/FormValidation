@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Meraj.Munshi
+Build-Jdk: 17.0.7
+Implementation-Title: form-validation
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/form-validation
+Created-By: Maven Integration for Eclipse
+
